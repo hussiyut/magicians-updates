@@ -1,10 +1,9 @@
 {
-  "version": "1.0.2",
-  "date": "14-10-2026 18:36",
+  "version": "1.0.1",
+  "date": "14-10-2026 22:00",
   "functions": [
     "Silent aim improved",
-    "Enemy Pull Fixed",
-    "UPDATE KRLOO"
+    "Fixed Enemy Pull",
   ],
-  "url": "https://github.com/hussiyut/magicians-updates/releases/download/v1.0.2/MAGICIANS.EXTREME.dll"
+  "url": "https://github.com/hussiyut/magicians-updates/releases/download/v1.0.1/MAGICIANS.EXTREME.dll"
 }
